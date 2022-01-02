@@ -2,7 +2,7 @@
 
 A reddit-like forum website for discussing anything and everything.
 
-![Dev Status](https://img.shields.io/badge/Development-in%20Progress-red?style=for-the-badge)
+![Dev Status](https://img.shields.io/badge/Development-in%20Progress-DC143C?style=for-the-badge)
 
 ### Features
 
